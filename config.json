@@ -1,0 +1,14 @@
+   {
+    "DESIGN_NAME": "adder16",
+    "VERILOG_FILES": "dir::adder16.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_NET": "clk",
+     "DIE_AREA": "0 0 400 400",
+    "pdk::sky130*": {
+        "FP_CORE_UTIL": 20,
+        "SYNTH_MAX_FANOUT": 8,
+        "PL_TARGET_DENSITY": 0.25,
+        "CLOCK_PERIOD": 4.6
+    }
+}
+
